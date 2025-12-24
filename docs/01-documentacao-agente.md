@@ -7,6 +7,7 @@
 >
 > [cole ou anexe o template `01-documentacao-agente.md` pra contexto]
 
+
 ## Caso de Uso
 
 ### Problema
